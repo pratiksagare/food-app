@@ -14,11 +14,12 @@ const Page = () => {
 
         // Store cart items before sign-in
         localStorage.setItem("cart", JSON.stringify(cartItems));
-
+        console.log("Cart items stored in localStorage: ", cartItems);
         await signIn("github");
 
         // Retrieve and update Redux state correctly
         const storedCart = JSON.parse(localStorage.getItem("cart")) || [];
+        console.log("Cart items retrieved from localStorage: ", storedCart);
         dispatch(setCart(storedCart));
 
         // Clear cart from localStorage after updating Redux
