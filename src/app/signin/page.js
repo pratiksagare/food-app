@@ -1,8 +1,7 @@
 "use client"
-import { signIn } from '@/app/api/auth';
+// import { signIn } from '@/app/api/auth';
 
-// import { useSession, signIn, signOut } from "next-auth/react";
-import React from 'react'
+import { signIn } from "next-auth/react";
 
 const page = () => {
   return (
