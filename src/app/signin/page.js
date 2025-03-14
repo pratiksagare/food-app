@@ -13,6 +13,6 @@ const page = () => {
       <button type="submit">Signin with GitHub</button>
     </form>
   )
-}
+} 
 
 export default page
