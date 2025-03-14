@@ -1,7 +1,7 @@
 export const GET = async (req) => {
     try {
         // Fetch data.json from the public folder
-        const response = await fetch("http://localhost:3000/data.json");
+        const response = await fetch(process.env.DATA_URI);
 
         // Check if fetch was successful
         if (!response.ok) {
