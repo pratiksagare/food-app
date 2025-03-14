@@ -1,0 +1,136 @@
+[
+    {
+        "restoId": "27f7e3d0-1e77-4dd6-bf1d-815fd3acb548",
+        "restoName": "KFC - Wakad",
+        "restoImage": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/99/44/8e/kfc-faxafeni.jpg?w=800&h=-1&s=1",
+        "restoTiming": "",
+        "deliveryTiming": "45-50 mins",
+        "restoCategory": "North Indian, Chicken Burger, Fries, Pepsi, Rice Bowlz, Chicken Popcorn",
+        "restoRating": "4.6",
+        "isRestoVeg": true,
+        "isRestoNonVeg": true,
+        "address": {
+            "area": "Wakad",
+            "pinCode": "411057"
+        },
+        "dishes": [
+            {
+                "dishId": "82b41976-e8b6-42cb-9cad-3d1976fa69c4",
+                "dishImage": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002340.jpg?ver=55.63",
+                "dishName": "All in One Bucket",
+                "content": "1 Leg, 1 Hot & Crispy, 2 Wings, 2 Strips, 1 Zinger Fillet, 3 Dips [20gm each] & 1 Pepsi 475 ml",
+                "price": 548.57,
+                "isVeg": false,
+                "isNonVeg": true,
+                "dishRating": "4.4"
+            },
+            {
+                "dishId": "9d4c38b0-f8d8-4191-90d2-a75f9508e56c",
+                "dishImage": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K815.jpg?ver=55.63",
+                "dishName": "Caribbean Spicy Zinger Burger",
+                "content": "Relish the Caribbean spicy zinger",
+                "price": 219.05,
+                "isVeg": false,
+                "isNonVeg": true,
+                "dishRating": "4.7"
+            },
+            {
+                "dishId": "e1cdc5fa-3735-4c77-9dff-11abda1ad201",
+                "dishImage": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00002412.jpg?ver=55.63",
+                "dishName": "Caribbean Spicy Zinger Burger & Popcorn Meal",
+                "content": "Caribbean Spicy Zinger Burger with Medium Popcorn and Pepsi PET 475ml at a deal price",
+                "price": 439.05,
+                "isVeg": false,
+                "isNonVeg": true,
+                "dishRating": "4.6"
+            },
+            {
+                "dishId": "3c1613d8-c72b-44e5-b995-34cfee20786f",
+                "dishImage": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-K912.jpg?ver=55.63",
+                "dishName": "Indian Paneer Zinger Burger",
+                "content": "Relish the Indian paneer zinger",
+                "price": 208.57,
+                "isVeg": true,
+                "isNonVeg": false,
+                "dishRating": "4.9"
+            },
+            {
+                "dishId": "Veg Zinger Box",
+                "dishImage": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/D-PR00001004.jpg?ver=55.63",
+                "dishName": "Veg Zinger Box",
+                "content": "A deal for the Veg Zinger lovers : Get 1 Veg Zinger, 2 Veg Patties & 1 Pepsi 475ml",
+                "price": 313.33,
+                "isVeg": true,
+                "isNonVeg": false,
+                "dishRating": "4.8"
+            }
+        ]
+    },
+    {
+        "restoId": "8ae348ca-58e6-4578-9741-5e4a2f6edebc",
+        "restoName": "Hotel Sai Nath & Sai Restaurant",
+        "restoImage": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/vkhcohhmqfczycw9vsar",
+        "restoTiming": "",
+        "deliveryTiming": "35-40 mins",
+        "restoCategory": "North Indian, South Indian, Chinese",
+        "restoRating": "4.3",
+        "isRestoVeg": true,
+        "isRestoNonVeg": false,
+        "address": {
+            "area": "Chinchwad",
+            "pinCode": "411033"
+        },
+        "dishes": [
+            {
+                "dishId": "b68c7eab-d021-43cd-8b33-4f679e6eb34e",
+                "dishImage": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/pggdjuwidtipb2pxbhxd",
+                "dishName": "Plain Dosa Butter",
+                "content": "A flavorful and authentic South Indian delight filled with aromatic spices and served with traditional condiments.",
+                "price": 90,
+                "isVeg": true,
+                "isNonVeg": false,
+                "dishRating": "5.0"
+            },
+            {
+                "dishId": "73153351-e507-4c22-8d2f-6f69ba4bcc74",
+                "dishImage": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/61f881a857e79d42f640e775166fcabc",
+                "dishName": "Cutting Dosa",
+                "content": "A flavorful and crispy South Indian specialty, perfect for those looking for a savory breakfast or snack option.",
+                "price": 95,
+                "isVeg": true,
+                "isNonVeg": false,
+                "dishRating": "3.2"
+            },
+            {
+                "dishId": "76b90c12-4dc0-4597-bb47-44be5f3078f2",
+                "dishImage": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/719f10bccb9f292a20954d483812e996",
+                "dishName": "Chesse Dosa",
+                "content": "A delightful, flavorful South Indian delicacy that will satisfy your craving for a cheesy, veggie-filled treat.",
+                "price": 110,
+                "isVeg": true,
+                "isNonVeg": false,
+                "dishRating": "3.8"
+            },
+            {
+                "dishId": "5233ae1a-d712-4130-a6be-101ff36b1b06",
+                "dishImage": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/f36d3e4fce447533d99fa46c6474c098",
+                "dishName": "Masala Dosa",
+                "content": "A flavorful and aromatic South Indian delight with a crispy exterior wrapping a delectable filling.",
+                "price": 90,
+                "isVeg": true,
+                "isNonVeg": false,
+                "dishRating": "4.0"
+            },
+            {
+                "dishId": "857a1531-ee53-45c2-a48a-496bc4e0da9b",
+                "dishImage": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/4/8/e9db0c39-e8e4-413a-8866-ea040974c217_f39d071b-ae1c-4124-a215-042b3cd524ee.JPG",
+                "dishName": "Masala Dosa Butter",
+                "content": "A delectable South Indian delicacy with a divine blend of flavors that will tantalize your taste buds.",
+                "price": 110,
+                "isVeg": true,
+                "isNonVeg": false,
+                "dishRating": "5.0"
+            }
+        ]
+    }
+]
