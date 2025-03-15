@@ -20,7 +20,9 @@ const MyLayout = () => {
     };
     useEffect(() => {
         console.log('MyLayout is mounted');
-        fetchRestaurants();
+        if (restoData.length === 0) {
+            fetchRestaurants();
+        }
     }, [])
 
     if (restoData.length === 0) {

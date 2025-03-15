@@ -1,6 +1,4 @@
 import React from 'react'
-// import Veg from '@/../..public/veg.png';
-// import NonVeg from '@/../..public/nonVeg.png';
 import { MdOutlineStar } from 'react-icons/md';
 import Image from 'next/image';
 import { LuDot } from 'react-icons/lu';
@@ -26,8 +24,8 @@ const RestoCard = ({ dish }) => {
     return (
         <div className='flex justify-between w-full shadow-md border-red-600 p-2'>
             <div className='w-full'>
-                {/* {dish?.isVeg && <Image src={Veg} alt="veg" width={15} height={15} />}
-                {dish?.isNonVeg && <Image src={NonVeg} alt="nonVeg" width={15} height={15} />} */}
+                {dish?.isVeg && <Image src={'/veg.png'} alt="veg" width={15} height={15} />}
+                {dish?.isNonVeg && <Image src={'/nonVeg.png'} alt="nonVeg" width={15} height={15} />}
                 <div className='flex flex-col py-1 md:py-3 w-full gap-1 md:gap-3'>
                     <span className='font-gilroyBold text-xs sm:text-sm  lg:text-lg xl:text-xl line-clamp-2 sm:line-clamp-1 text-ellipsis '>{dish.dishName}</span>
                     <div className='flex items-center gap-0.5'>
