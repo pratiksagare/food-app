@@ -1,7 +1,14 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     images: {
-        domains: ['orderserv-kfc-assets.yum.com', 'media-assets.swiggy.com'],
+        remotePatterns: [{
+            protocol: 'https',
+            hostname: 'orderserv-kfc-assets.yum.com',
+
+        }, {
+            protocol: 'https',
+            hostname: 'media-assets.swiggy.com',
+        }],
     },
     devIndicators: false
 };
